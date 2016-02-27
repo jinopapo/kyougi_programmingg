@@ -28,6 +28,7 @@ bool isYes(int s,int e){
     return false;
 }
 
+
 int main(){
   int N,Q;
   cin >> N >> S >> Q;
